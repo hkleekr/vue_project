@@ -1,5 +1,8 @@
 # project
 
+Vue 예제, 개발자의 품격
+https://www.youtube.com/watch?v=b0ImUEsqaAA&t=0s
+
 ## Project setup
 ```
 npm install
